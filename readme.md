@@ -22,7 +22,10 @@ LICENSE: [MIT](./licence.md)
 
 7. [commit](commit.md)
 
-8. [Справка](справка.md)
+---
+
+### [Справка](справка.md)
+
 
 ---
 
